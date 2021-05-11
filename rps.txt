@@ -3,5 +3,5 @@ play = ["Rock", "Paper", "Scissors"]
 
 computer = play[randint(0,2)]
 
-player = "Paper"
+player = input
 print
